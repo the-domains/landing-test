@@ -4,7 +4,7 @@
         <description><![CDATA[landing test]]></description>
         <link>https://thegrid.ai/landing-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 13:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 13:26:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/landing-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/landing-test/b585c9c2-53f1-4db3-8afe-366682d1c475/index.html</link>
             <guid isPermaLink="false">b585c9c2-53f1-4db3-8afe-366682d1c475</guid>
             <pubDate>Fri, 26 Feb 2016 13:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Velvet Cloud is incredibly complex e-liquid with ultra high VG content and no preservatives!</p>]]></description>
-            <link>https://thegrid.ai/landing-test/9d425d7b-04b2-48f6-b205-79770b425bd6/index.html</link>
-            <guid isPermaLink="false">9d425d7b-04b2-48f6-b205-79770b425bd6</guid>
-            <pubDate>Fri, 26 Feb 2016 13:20:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
